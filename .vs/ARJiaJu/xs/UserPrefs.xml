@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{0342E2CF-7610-14D4-D60E-EFDA2B09EEA6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StateManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ScaleValue.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/ModelEdit.cs" />
+      <File FileName="Assets/Scripts/UIManager.cs" />
+      <File FileName="Assets/Scripts/ARTapToPlaceObject.cs" />
+      <File FileName="Assets/Scripts/ArrowItem.cs" />
+      <File FileName="Assets/Scripts/StateManager.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARJiaJu" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ScaleValue.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ARFoundationRemote.Editor PreferredExecutionTarget="e8500b75-ab40-482a-be0f-87a485b6e550" />
+</Properties>

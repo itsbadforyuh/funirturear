@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5C9934AC-4C74-2C86-E071-D42726F0554D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ArrowItem.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ARTapToPlaceObject.cs" Line="30" Column="79" />
+      <File FileName="Assets/Scripts/ArrowItem.cs" Line="24" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ARFoundationRemote.Editor PreferredExecutionTarget="3634dfc4-536a-4a70-8f55-38670f0048e6" />
+</Properties>
